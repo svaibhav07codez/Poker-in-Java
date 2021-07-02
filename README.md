@@ -14,7 +14,7 @@ holds all the gamecards,in poker , there are 5 gamecards
 has many static functions which can be used to find who has a better hand , this also has the public static void main
 
 oops concepts involed:
-the oops concepts that we have sed here are inheritance ,execption handelling and data encapsulation
+the oops concepts that we have sed here are inheritance, exception handeling and data encapsulation
 
 
 
